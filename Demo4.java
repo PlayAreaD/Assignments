@@ -8,7 +8,7 @@ public class Demo4 {
         int second = 59;
 
 
-        System.out.printf("\u001B[33m%s\u001B[0m/\u001B[32m%s\u001B[0m/\u001B[31m%s\u001B[0m \u001B[33m%s\u001B[0m:\u001B[34m%s\u001B[0m:\u001B[35m%s\u001B[0m \n", day,month,year,hour,minute,second);
+        System.out.printf("\u001B[33m%s\u001B[0m/\u001B[32m%s\u001B[0m/\u001B[31m%s\u001B[0m \u001B[36m%s\u001B[0m:\u001B[34m%s\u001B[0m:\u001B[35m%s \n", day,month,year,hour,minute,second);
     }
     
 }

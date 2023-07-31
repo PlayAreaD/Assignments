@@ -8,7 +8,7 @@ public class Demo6taskb {
         String columnOne = "NAME";
         String columnTwo = "AGE";
     
-        final String LINE = "\u001B[33m+"+"-".repeat(10)+"+"+"-".repeat(6)+"+ \n\u001B[0m";
+        final String LINE = "\u001B[33m+"+"-".repeat(10)+"+"+"-".repeat(6)+"+\u001B[0m \n";
         final String RECORD = "\u001B[33m|\u001B[0m%-10s\u001B[33m|\u001B[0m\u001B[31m%6s\u001B[33m|\u001B[0m \n";
         final String COLUMN = "\u001B[33m|\u001B[0m\u001B[36;1m%-10s\u001B[33m|\u001B[0m\u001B[36;1m%6s\u001B[33m|\u001B[0m \n";
 

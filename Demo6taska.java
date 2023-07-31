@@ -5,10 +5,6 @@ public class Demo6taska{
         String percentageMark = "%";
 
         System.out.printf("\u001B[41m[    %s\u001B[0m\u001B[42m[%s%s   ]\u001B[0m \n", numberOne,numberTwo,percentageMark);
-        // int areaCode = 123;
-        // int partTwo = 456;
-        // int partThree = 7890;
 
-        // System.out.printf("\u001B[41m(%s)\u001B[0m %s-%s \n", areaCode,partTwo, partThree);
     }
 }
